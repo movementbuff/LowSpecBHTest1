@@ -1,0 +1,25 @@
+{
+	"qualityPreset":
+	{
+		"viewDistanceQuality": 0,
+		"materialQuality": 0,
+		"textureQuality": 0,
+		"textureFilteringQuality": 0,
+		"visualEffectQuality": 0,
+		"foliageQuality": 0,
+		"lightingQuality": 0,
+		"volumetricFogQuality": 0,
+		"ambientOcclusionQuality": 1,
+		"screenSpaceReflectionQuality": 0,
+		"shadowQuality": 0,
+		"antiAliasingQuality": 0,
+		"subSurfaceScatteringQuality": 0,
+		"motionBlurQuality": 0,
+		"bloomQuality": 0,
+		"lensFlareQuality": 0,
+		"bUseChromaticAberration": false,
+		"bUseFilmGrain": false,
+		"bUseLightShafts": false
+	},
+	"savedVersion": 2
+}

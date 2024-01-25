@@ -1,0 +1,18 @@
+{
+	"resolutionX": 1920,
+	"resolutionY": 1080,
+	"resolutionScale": 1,
+	"windowMode": 0,
+	"gamma": 2.5520000457763672,
+	"frameRateLimit": 0,
+	"frameRateLimitOverride": 0,
+	"bEnableFrameRateSmoothing": true,
+	"bEnableVSync": false,
+	"fsrQualityLevel": "Off",
+	"fsrSharpening": 0,
+	"fsr2QualityLevel": "Off",
+	"fsr2Sharpening": 0,
+	"dlssQualityLevel": "Off",
+	"xeSSQualityLevel": "Off",
+	"savedVersion": 1
+}
