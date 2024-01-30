@@ -17,7 +17,7 @@ Make sure you download the files from the branch that corresponds to your resolu
 If you do not want 1920x1080 or x810 and prefer to use a different resolution; open the files in Notepad and Find and Replace (CTRL F) all instances of the values "1920" and "1080" with whichever resolution values you prefer.
 Alternatively, you SHOULD be able to change to your preferred resolution in-game, however you will need to do this every time after launching Bloodhunt.
      
-     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - First, Press Windows Key + R and type %localappdata%\Tiger\ then press enter.
   
