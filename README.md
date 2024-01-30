@@ -1,4 +1,4 @@
-Basic Performance Configs
+Basic Performance Configs 1920x1080
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Make sure you download the files from the branch that corresponds to your resolution. There are two branches, 1920x1080 and 1920x810.
