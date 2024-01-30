@@ -8,7 +8,7 @@ This feedback helps me immensely as it often takes hours to test just 1 CVAR sin
    It is a futile process that I would not continue if I was not pleased by the process of learning.
    
    I am not a software developer and have no knowledge of such languages. I simply enjoy engineering methods to get things to function the way I want them to.
--
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                           
                                                                                           
   GUIDE:
