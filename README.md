@@ -40,9 +40,9 @@ Do everything in this video - it will improve the overall performance significan
 -----------------------------------------------------------------------------------------------------------------------------
 
 
-+ Join the discord. https://discord.gg/a47PEhE8WE
-
 + Twitch. https://www.twitch.tv/movementbuff
 
 + YouTube. https://www.youtube.com/@movementbuff
+
++ Join the Discord. https://discord.gg/a47PEhE8WE
 
