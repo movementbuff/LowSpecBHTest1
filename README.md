@@ -2,7 +2,8 @@ Basic Performance Configs 1920x810
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-THIS IS THE 1920x810 BRANCH
+THIS IS THE 1920x810 BRANCH 
+If you need the 1920x1080 config and you are accidentally here -  Click here: https://github.com/movementbuff/LowSpecBHTest1/tree/1920x1080
 -
 Make sure you download the files from the branch that corresponds to your resolution. There are two branches; 1920x1080 and 1920x810. This is the x810 branch. Only use the files here and not in the x1080 if you use 1920x810 to play Bloodhunt.
 If you do not want 1920x1080 or x810 and prefer to use a different resolution; open the files in Notepad and Find and Replace (CTRL F) all instances of the values "1920" and "1080" with whichever resolution values you prefer. Alternatively, you SHOULD be able to change to your preferred resolution in-game, however you will need to do this every time after launching Bloodhunt.
@@ -29,4 +30,11 @@ https://www.youtube.com/watch?v=ykGgOJMPcDk
 Do everything in this video - it will improve the overall performance significantly unless you have a unique limiting factor.
 -----------------------------------------------------------------------------------------------------------------------------
 
-THIS IS THE 1920x810 BRANCH WITH FILES LOCKED TO THE RESOLUTION 1920x810. 
++ Twitch. https://www.twitch.tv/movementbuff
+
++ YouTube. https://www.youtube.com/@movementbuff
+
++ Join the Discord. https://discord.gg/a47PEhE8WE
+
+
+THIS IS THE 1920x810 BRANCH WITH FILES LOCKED TO THE RESOLUTION 1920x810. Click here to get to 1080 if you are confused: https://github.com/movementbuff/LowSpecBHTest1/tree/1920x1080
