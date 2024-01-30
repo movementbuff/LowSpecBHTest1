@@ -16,6 +16,7 @@ This feedback helps me immensely as it often takes hours to test just 1 CVAR sin
 Make sure you download the files from the branch that corresponds to your resolution. There are two branches, 1920x1080 and 1920x810. This is the 1080 Branch, which is the default. Most likely this is the correct branch for you.
 If you do not want 1920x1080 or x810 and prefer to use a different resolution; open the files in Notepad and Find and Replace (CTRL F) all instances of the values "1920" and "1080" with whichever resolution values you prefer.
 Alternatively, you SHOULD be able to change to your preferred resolution in-game, however you will need to do this every time after launching Bloodhunt.
+     
      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - First, Press Windows Key + R and type %localappdata%\Tiger\ then press enter.
