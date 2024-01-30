@@ -4,7 +4,7 @@ Basic Performance Configs 1920x810
 
 THIS IS THE 1920x810 BRANCH
 -
-Make sure you download the files from the branch that corresponds to your resolution. There are two branches, 1920x1080 and 1920x810. This is the x810 branch. Only use the files here and not in the x1080 if you use 1920x810 to play Bloodhunt.
+Make sure you download the files from the branch that corresponds to your resolution. There are two branches; 1920x1080 and 1920x810. This is the x810 branch. Only use the files here and not in the x1080 if you use 1920x810 to play Bloodhunt.
 If you do not want 1920x1080 or x810 and prefer to use a different resolution; open the files in Notepad and Find and Replace (CTRL F) all instances of the values "1920" and "1080" with whichever resolution values you prefer. Alternatively, you SHOULD be able to change to your preferred resolution in-game, however you will need to do this every time after launching Bloodhunt.
 
    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
