@@ -13,8 +13,6 @@ This feedback helps me immensely as it often takes hours to test just 1 CVAR sin
                                                                                           
   GUIDE:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > < > 
-
 Make sure you download the files from the branch that corresponds to your resolution. There are two branches, 1920x1080 and 1920x810.
 If you prefer to use a different resolution you simply need to open the files in Notepad and Find and Replace all instances of the values "1920" and "1080" with whichever resolution values you prefer.
 Alternatively, you should be able to change to your preferred resolution in-game, however you will need to do this every time after launching Bloodhunt.
