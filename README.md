@@ -5,6 +5,7 @@ This feedback helps me immensely as it often takes hours to test just 1 CVAR sin
    That means to test and determine the impact of "GenericConsoleVariable=X", I need to add it to the config, load up the game, spawn into a solo match (tutorial does not perform the same as actual game), 
    play the match, traverse all around the map and observe for artefacts or glitches, check and log the FPS and other performance charts after the match, 
    then go back to the file and change "GenericConsoleVariable=X" to "GenericConsoleVariable=Y" et cetera... 
+   It is a futile process that I would not continue if I was not pleased by the process of learning.
    
    I am not a software developer and have no knowledge of such languages. I simply enjoy engineering methods to get things to function the way I want them to.
 
