@@ -1,7 +1,5 @@
 Basic Performance Configs 1920x810
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 THIS IS THE 1920x810 BRANCH
 -
 If you need the 1920x1080 config and you are accidentally here -  Click here: https://github.com/movementbuff/LowSpecBHTest1/tree/1920x1080
