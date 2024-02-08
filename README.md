@@ -1,4 +1,4 @@
-Basic Performance Configs 1920x1080 
+Basic Performance Configs 2560x1440
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I have been testing different cvars in configs in Bloodhunt for almost a year now. As it has been so long, I have decided to compile different configs and release them so that anyone can try them and provide feedback on the performance.
 This feedback helps me immensely as it often takes hours to test just 1 CVAR since there is no way (Legally) to access the console in-game.
@@ -13,8 +13,8 @@ This feedback helps me immensely as it often takes hours to test just 1 CVAR sin
                                                                                           
   GUIDE:
 -
-Make sure you download the files from the branch that corresponds to your resolution. There are two branches, 1920x1080 and 1920x810. This is the 1080 Branch, which is the default. Most likely this is the correct branch for you.
-If you do not want 1920x1080 or x810 and prefer to use a different resolution; open the files in Notepad and Find and Replace (CTRL F) all instances of the values "1920" and "1080" with whichever resolution values you prefer.
+Make sure you download the files from the branch that corresponds to your resolution. There are two branches, 1920x1080 and 1920x810, and a third 2560x1440p branch reserved for 1440p users. This is the 2560*1440 Branch.
+If you do not want 1920x1080 or x810/x1440 and prefer to use a different resolution; open the files in Notepad and Find and Replace (CTRL F) all instances of the values "1920" and "1080" (or "810" or "2560" and "1440") with whichever resolution values you prefer.
 Alternatively, you SHOULD be able to change to your preferred resolution in-game, however you will need to do this every time after launching Bloodhunt.
      
  --------------------------------------------------------------------------------------------------------------------------------------------------------------
