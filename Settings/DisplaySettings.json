@@ -6,7 +6,7 @@
 	"gamma": 2.5520000457763672,
 	"frameRateLimit": 0,
 	"frameRateLimitOverride": 0,
-	"bEnableFrameRateSmoothing": true,
+	"bEnableFrameRateSmoothing": false,
 	"bEnableVSync": false,
 	"fsrQualityLevel": "Off",
 	"fsrSharpening": 0,
