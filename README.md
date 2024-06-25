@@ -18,7 +18,7 @@ I have been testing different cvars in configs in Bloodhunt for almost 2 years n
 - Inside WindowsNoEditor folder ( %localappdata%\Tiger\Saved\Config\WindowsNoEditor ) replace your current "Engine.ini" ,  "DeviceProfiles.ini" and "GameUserSettings.ini" with the files you downloaded.
 - After replacing, Right click each file and Select "Properties". Ensure that "Read Only" is ticked/enabled.
   
-- Return to the Tiger folder ( %localappdata%\Tiger\ ) and open the "Settings" folder, then replace "DisplaySettings.json" and "GraphicsSettings.json".
+- Return to the Tiger folder ( %localappdata%\Tiger\ ) and open the "Settings" folder, then replace "DisplaySettings.json" and "GraphicsSettings.json" with the 2 from inside this github's "Settings" folder.
 - Perform the same check as you did before to verify that Read Only is enabled on both files.
 
 - Finally, Use RTSS to cap Frame Rate at 120, 125, 144, 165, 180, 200 or use the in-game Frame Limiter to prevent the framerate from spiking and dipping  (RTSS is strongly preferred. It is free and simple to use)
