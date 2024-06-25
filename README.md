@@ -17,7 +17,7 @@ I have been testing different cvars in configs in Bloodhunt for almost 2 years n
 - After replacing, Right click each file and Select "Properties". Ensure that "Read Only" is ticked/enabled.
   
 - Return to the Tiger folder ( %localappdata%\Tiger\ ) and open the "Settings" folder, then replace "DisplaySettings.json" and "GraphicsSettings.json".
-- Perform the same check as early to validate that Read Only is enabled on both files.
+- Perform the same check as you did before to verify that Read Only is enabled on both files.
 
 - Finally, Use RTSS to cap Frame Rate at 120, 125, 144, 165, 180, 200 or use the in-game Frame Limiter to prevent the framerate from spiking and dipping  (RTSS is strongly preferred. It is free and simple to use)
   I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights.
