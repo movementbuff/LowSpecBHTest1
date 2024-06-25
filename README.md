@@ -24,6 +24,8 @@ I have been testing different cvars in configs in Bloodhunt for almost 2 years n
 - Finally, Use RTSS to cap Frame Rate at 120, 125, 144, 165, 180, 200 or use the in-game Frame Limiter to prevent the framerate from spiking and dipping  (RTSS is strongly preferred. It is free and simple to use)
   I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights.
 
+
+
 -----------------------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=ykGgOJMPcDk
 Do everything in this video - it will improve the overall performance significantly unless you have a unique limiting factor.
