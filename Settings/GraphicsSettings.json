@@ -9,7 +9,7 @@
 		"foliageQuality": 0,
 		"lightingQuality": 0,
 		"volumetricFogQuality": 0,
-		"ambientOcclusionQuality": 1,
+		"ambientOcclusionQuality": 0,
 		"screenSpaceReflectionQuality": 0,
 		"shadowQuality": 0,
 		"antiAliasingQuality": 0,
