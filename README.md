@@ -5,9 +5,9 @@ UPDATED 25th June, 2024. Responsiveness increased via several methods. Basically
 I have been testing different cvars in configs in Bloodhunt for almost 2 years now. As it has been so long, I have decided to compile a low spec config and release them so that anyone can try them and provide feedback on the performance.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                           
-                                                                                          
+                                                                                      
   GUIDE:
-  -
+  - (Optional) Follow along here with Video Guide https://www.youtube.com/watch?v=7SXHlt0s8yA
 
 - First, Press Windows Key + R and type %localappdata%\Tiger\ then press enter.
   
