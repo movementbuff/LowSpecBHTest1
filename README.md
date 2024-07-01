@@ -27,6 +27,8 @@ I have been testing different cvars in configs in Bloodhunt for almost 2 years n
 ENABLE ANTIALIASING IN THE GAMES GRAPHIC SETTINGS IF YOU ARE STREAMING GAMEPLAY OR WANT THE IMAGE TO LOOK CLEANER.
 Additionally, add these commands to your Engine.ini if you wish to use AntiAliasing but find it is too blurry:
 
+r.PostProcessAAQuality=3
+
 r.Tonemapper.Quality=2
 
 r.Tonemapper.Sharpen=4
