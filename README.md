@@ -24,7 +24,12 @@ I have been testing different cvars in configs in Bloodhunt for almost 2 years n
 - Finally, Use RTSS to cap Frame Rate at 120, 125, 144, 165, 180, 200 or use the in-game Frame Limiter to prevent the framerate from spiking and dipping  (RTSS is strongly preferred. It is free and simple to use)
   I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights.
 
-
+ENABLE ANTIALIASING IN THE GAMES GRAPHIC SETTINGS IF YOU ARE STREAMING GAMEPLAY OR WANT THE IMAGE TO LOOK CLEANER.
+Additionally, add these commands to your Engine.ini if you wish to use AntiAliasing but find it is too blurry:
+r.Tonemapper.Quality=2
+r.Tonemapper.Sharpen=4
+r.TonemapperFilm=1
+With AA set to TAA and these 3 commands in your Engine, the image should look much cleaner, although the performance will suffer slightly.
 
 -----------------------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=ykGgOJMPcDk
