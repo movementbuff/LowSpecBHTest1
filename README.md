@@ -25,7 +25,7 @@ I have been testing different cvars in configs in Bloodhunt for almost 2 years n
   I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights.
 
 ENABLE ANTIALIASING IN THE GAMES GRAPHIC SETTINGS IF YOU ARE STREAMING GAMEPLAY OR WANT THE IMAGE TO LOOK CLEANER.
-Additionally, add these commands to your Engine.ini if you wish to use AntiAliasing but find it is too blurry:
+Additionally, add these commands to your Engine.ini underneath " [SystemSettings] " if you wish to use AntiAliasing but find it is too blurry:
 
 r.PostProcessAAQuality=3
 
@@ -35,7 +35,7 @@ r.Tonemapper.Sharpen=4
 
 r.TonemapperFilm=1
 
-With AA set to TAA and these 4 commands in your Engine.ini underneath " [SystemSettings] ", the image should look much cleaner, although the performance will suffer slightly.
+With AA set to TAA and these 4 commands added, the image should look much cleaner, although the performance will suffer slightly.
 
 -----------------------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=ykGgOJMPcDk
