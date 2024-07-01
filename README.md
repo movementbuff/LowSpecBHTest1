@@ -35,7 +35,7 @@ r.Tonemapper.Sharpen=4
 
 r.TonemapperFilm=1
 
-With AA set to TAA and these 4 commands in your Engine, the image should look much cleaner, although the performance will suffer slightly.
+With AA set to TAA and these 4 commands in your Engine.ini underneath " [SystemSettings] ", the image should look much cleaner, although the performance will suffer slightly.
 
 -----------------------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=ykGgOJMPcDk
