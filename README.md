@@ -2,7 +2,7 @@ UPDATED 2nd of July, 2024. Added Antialiasing to clean up the image. Very Minor 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 UPDATED 25th June, 2024. Responsiveness increased via several methods. Basically a comp config at this point. 
 ----------------------------------------------------------------------
-I have been testing different cvars in configs in Bloodhunt for almost 2 years now. As it has been so long, I have decided to compile a low spec config and release them so that anyone can try them and provide feedback on the performance.
+I have been testing different cvars in configs in Bloodhunt for 2 years now. As it has been so long, I have decided to compile a low spec config and release it so that anyone can try and provide feedback on the performance.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                           
 -----------------------------------------------------------------------------------------------------------------------------------------------------                                                                                      
