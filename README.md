@@ -1,14 +1,13 @@
-
+UPDATED 2nd of July, 2024. Added Antialiasing to clean up the image. Very Minor FPS reduction as a result - check base of guide to remove AA.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 UPDATED 25th June, 2024. Responsiveness increased via several methods. Basically a comp config at this point. 
 ----------------------------------------------------------------------
 I have been testing different cvars in configs in Bloodhunt for almost 2 years now. As it has been so long, I have decided to compile a low spec config and release them so that anyone can try them and provide feedback on the performance.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                           
-                                                                                      
-  GUIDE:
-  - (Optional) Follow along here with Video Guide https://www.youtube.com/watch?v=7SXHlt0s8yA
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------                                                                                      
+GUIDE: - (Optional) Follow along here with Video Guide https://www.youtube.com/watch?v=7SXHlt0s8yA
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 - First, Press Windows Key + R and type %localappdata%\Tiger\ then press enter.
   
 - Copy and Backup the folder "Settings" to somewhere memorable.
@@ -24,8 +23,8 @@ I have been testing different cvars in configs in Bloodhunt for almost 2 years n
 - Finally, Use RTSS to cap Frame Rate at 120, 125, 144, 165, 180, 200 or use the in-game Frame Limiter to prevent the framerate from spiking and dipping  (RTSS is strongly preferred. It is free and simple to use)
   I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights.
 
-ENABLE ANTIALIASING IN THE GAMES GRAPHIC SETTINGS IF YOU ARE STREAMING GAMEPLAY OR WANT THE IMAGE TO LOOK CLEANER.
-Additionally, add these commands to your Engine.ini underneath " [SystemSettings] " if you wish to use AntiAliasing but find it is too blurry:
+IF YOU WANT TO FURTHER INCREASE FPS YOU CAN REMOVE THE ANTIALIASING I HAVE ADDED BUT IT WILL MAKE THE IMAGE LOOK VERY HARSH.
+To do so, remove these commands from your Engine.ini underneath " [SystemSettings] " if you wish to remove AntiAliasing.
 
 r.PostProcessAAQuality=3
 
@@ -35,7 +34,6 @@ r.Tonemapper.Sharpen=4
 
 r.TonemapperFilm=1
 
-With AA set to TAA and these 4 commands added, the image should look much cleaner, although the performance will suffer slightly.
 
 -----------------------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=ykGgOJMPcDk
