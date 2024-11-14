@@ -1,3 +1,5 @@
+Huge shoutout to EvilQuaint!
+
 UPDATED 2nd of July, 2024. Added Antialiasing to clean up the image. Very Minor FPS reduction as a result - check base of guide to remove it if desired.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 UPDATED 25th June, 2024. Responsiveness increased via several methods. Basically a comp config at this point. 
