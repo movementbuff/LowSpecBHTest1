@@ -25,6 +25,9 @@ GUIDE: - (Optional) Follow along here with Video Guide https://www.youtube.com/w
 - Finally, Use RTSS to cap Frame Rate at 120, 125, 144, 165, 180, 200 or use the in-game Frame Limiter to prevent the framerate from spiking and dipping  (RTSS is strongly preferred. It is free and simple to use)
   I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights.
 
+Want more FPS or is your PC too Low Spec? Use this DeviceProfiles at this link: https://github.com/movementbuff/lowspecbh
+
+
 IF YOU WANT TO FURTHER INCREASE FPS YOU CAN REMOVE THE ANTIALIASING I HAVE ADDED BUT IT WILL MAKE THE IMAGE LOOK VERY HARSH.
 To do so, remove these commands from your Engine.ini underneath " [SystemSettings] " if you wish to remove AntiAliasing.
 
